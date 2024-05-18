@@ -10,14 +10,14 @@
 
 ### Programming Languages
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"  alt="Python" width="80" height="80"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="80" height="80"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="80" height="80"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C" width="80" height="80"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#"  alt="C#" width="80" height="80"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php"  alt="php" width="80" height="80"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="html"  alt="html" width="80" height="80"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab"  alt="matlab" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="html" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" width="80" height="80"/>
 </div>
 
 ### IDEs
@@ -30,6 +30,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"  alt="AnndroidStudio" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="Eclipse" width="80" height="80"/>
+</div>
+
+### Frameworks
+
+<div>
 </div>
 
 ## Stats
