@@ -20,7 +20,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab"  alt="matlab" width="80" height="80"/>
 </div>
 
-### Programming Languages
+### IDEs
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" width="80" height="80"/>
