@@ -4,7 +4,7 @@
 - 💻 Software Engineer
 - 🎓 Master's degree in Electrical Engineering
 - 🧪 INTP-T
-- 🇩🇪 Live in Germany 🥨🍺
+- 🇩🇪 Lives in Germany 🥨🍺
 
 ## Technologies
 
