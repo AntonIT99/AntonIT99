@@ -30,8 +30,8 @@
 
 ## Repos
 <div align="center">
-  <img align="center" src="https://githubstats-git-master-antonit99s-projects.vercel.app/api/pin/?username=AntonIT99&repo=Flans-Mod-NPC-Vehicles&theme=github_dark">
-  <img align="center" src="https://githubstats-git-master-antonit99s-projects.vercel.app/api/pin/?username=AntonIT99&repo=GermanDiscordMusicBot&theme=github_dark">
+  <img height=150 align="center" src="https://githubstats-git-master-antonit99s-projects.vercel.app/api/pin/?username=AntonIT99&repo=Flans-Mod-NPC-Vehicles&theme=github_dark">
+  <img height=150 align="center" src="https://githubstats-git-master-antonit99s-projects.vercel.app/api/pin/?username=AntonIT99&repo=GermanDiscordMusicBot&theme=github_dark">
 </div>
 
 <!--
