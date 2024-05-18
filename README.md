@@ -35,9 +35,9 @@
 ### Frameworks
 
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"  alt="Spring" width="80" height="80"/>
-<img src="https://docs.osgi.org/img/OSGi_WG.png" title="OSGi" width="80" height="80"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/opencl/opencl-original.svg" title="OpenCL" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"  alt="Spring" height="80"/>
+<img src="https://docs.osgi.org/img/OSGi_WG.png" title="OSGi" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/opencl/opencl-original.svg" title="OpenCL" height="80"/>
 </div>
 
 ## Stats
