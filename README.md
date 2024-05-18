@@ -27,7 +27,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="CLion" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="VisualStudio" width="80" height="80"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"  alt="AnndroidStudio" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="Eclipse" width="80" height="80"/>
 </div>
