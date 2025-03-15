@@ -45,7 +45,7 @@
   <a href="https://github.com/AntonIT99/">
     <img height="250" width="49.5%" src="https://githubstats-git-master-antonit99s-projects.vercel.app/api?username=AntonIT99&show_icons=true&show=prs_merged_percentage&theme=github_dark">
     <img height="250" width="49.5%" src="https://githubstats-git-master-antonit99s-projects.vercel.app/api/top-langs/?username=AntonIT99&size_weight=0.5&count_weight=0.5&langs_count=5&layout=donut&theme=github_dark">
-    <img height="250" width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=AntonIT99&theme=github-dark-blue">
+    <!--<img height="250" width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=AntonIT99&theme=github-dark-blue">-->
     <img height="200" width="99%" src="https://githubstats-git-master-antonit99s-projects.vercel.app/api/wakatime?username=AntonIT99&theme=github_dark">
   </a>
 </p>
