@@ -2,7 +2,7 @@
 
 ## About Me
 - 💻 Software Engineer
-- 🎓 Master's degree in Electrical Engineering
+- 🎓 Master's degree in Electrical Engineering & Information Technology
 - 🧪 INTP-T
 - 🥨 German & French
 
