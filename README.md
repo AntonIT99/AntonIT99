@@ -43,8 +43,8 @@
 
 <p align="center">
   <a href="https://github.com/AntonIT99/">
-    <img height="240" width="49.5%" src="https://github-readme-stats-fast.vercel.app/api?username=AntonIT99&show_icons=true&show=prs_merged_percentage&theme=github_dark">
-    <img height="240" width="49.5%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AntonIT99&size_weight=0.5&count_weight=0.5&langs_count=4&layout=donut&theme=github_dark">
+    <img height="240" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AntonIT99&show_icons=true&show=prs_merged_percentage&theme=github_dark">
+    <img height="240" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonIT99&size_weight=0.2&count_weight=0.8&langs_count=4&layout=donut&theme=github_dark">
     <img height="240" width="49.5%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=AntonIT99&theme=github_dark">
     <!--<img height="250" width="49.5%" src="https://githubstats-git-master-antonit99s-projects.vercel.app/api?username=AntonIT99&show_icons=true&show=prs_merged_percentage&theme=github_dark">-->
     <!--<img height="250" width="49.5%" src="https://githubstats-git-master-antonit99s-projects.vercel.app/api/top-langs/?username=AntonIT99&size_weight=0.5&count_weight=0.5&langs_count=5&layout=donut&theme=github_dark">-->
